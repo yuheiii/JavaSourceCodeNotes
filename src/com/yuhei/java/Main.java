@@ -1,6 +1,6 @@
 package com.yuhei.java;
 
-public class Main {
+public classMain {
 
     public static void main(String[] args) {
 	// write your code here
